@@ -2,8 +2,8 @@
   "_": "config",
   "default_p2p_contacts": true,
   "revoke_pm_inbox": true,
-  "date": 1782835735,
-  "expires": 1782838954,
+  "date": 1782835825,
+  "expires": 1782839267,
   "test_mode": true,
   "this_dc": 1,
   "dc_options": [

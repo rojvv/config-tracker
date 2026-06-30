@@ -20,6 +20,7 @@ Deno.cron("fetch configurations", "*/10 * * * *", async () => {
           });
           configObject.date = 0;
           configObject.expires = 0;
+          configObject.dc_options = [];
           const config = JSON.stringify(toJSON(configObject), null, 2);
           try {
             await commit(join(dc, "config.json"), `${config}\n`);

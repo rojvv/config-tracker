@@ -6,68 +6,7 @@
   "expires": 0,
   "test_mode": true,
   "this_dc": 1,
-  "dc_options": [
-    {
-      "_": "dcOption",
-      "id": 1,
-      "ip_address": "149.154.175.40",
-      "port": 80
-    },
-    {
-      "_": "dcOption",
-      "static": true,
-      "id": 1,
-      "ip_address": "149.154.175.40",
-      "port": 80
-    },
-    {
-      "_": "dcOption",
-      "ipv6": true,
-      "id": 1,
-      "ip_address": "2001:0b28:f23d:f001:0000:0000:0000:000e",
-      "port": 443
-    },
-    {
-      "_": "dcOption",
-      "static": true,
-      "id": 2,
-      "ip_address": "149.154.167.40",
-      "port": 443
-    },
-    {
-      "_": "dcOption",
-      "id": 2,
-      "ip_address": "149.154.167.40",
-      "port": 443
-    },
-    {
-      "_": "dcOption",
-      "ipv6": true,
-      "id": 2,
-      "ip_address": "2001:067c:04e8:f002:0000:0000:0000:000e",
-      "port": 443
-    },
-    {
-      "_": "dcOption",
-      "static": true,
-      "id": 3,
-      "ip_address": "149.154.175.117",
-      "port": 443
-    },
-    {
-      "_": "dcOption",
-      "id": 3,
-      "ip_address": "149.154.175.117",
-      "port": 80
-    },
-    {
-      "_": "dcOption",
-      "ipv6": true,
-      "id": 3,
-      "ip_address": "2001:0b28:f23d:f003:0000:0000:0000:000e",
-      "port": 443
-    }
-  ],
+  "dc_options": [],
   "dc_txt_domain_name": "tapv3.stel.com",
   "chat_size_max": 50,
   "megagroup_size_max": 500,

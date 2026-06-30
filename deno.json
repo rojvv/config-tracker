@@ -1,0 +1,8 @@
+{
+  "imports": {
+    "@mtkruto/mtkruto": "jsr:@mtkruto/mtkruto@^0.196.0",
+    "@octokit/rest": "npm:@octokit/rest@^22.0.1",
+    "@std/async": "jsr:@std/async@^1.4.0",
+    "@std/path": "jsr:@std/path@^1.1.5"
+  }
+}

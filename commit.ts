@@ -27,6 +27,7 @@ export async function commit(path: string, content: string) {
         if (!Array.isArray(data) && data.type === "file") {
           sha = data.sha;
         }
+        // deno-lint-ignore no-explicit-any
       } catch (err: any) {
         if (err.status !== 404) throw err;
       }

@@ -1,4 +1,4 @@
-import { Client, DC, toJSON } from "@mtkruto/mtkruto";
+import { Api, Client, DC, toJSON } from "@mtkruto/mtkruto";
 import { join } from "@std/path/join";
 import { delay } from "@std/async/delay";
 import { commit } from "./commit.ts";
@@ -14,26 +14,30 @@ Deno.cron("fetch configurations", "*/10 * * * *", async () => {
         await client.connect();
         console.log(`Connected to DC${dc}.`);
         try {
-          const config = JSON.stringify(
-            toJSON(
-              await client.invoke({ _: "help.getConfig", hash: 0 }),
-            ),
-            null,
-            2,
-          );
+          const configObject = await client.invoke({
+            _: "help.getConfig",
+            hash: 0,
+          });
+          configObject.date = 0;
+          const config = JSON.stringify(toJSON(configObject), null, 2);
           try {
             await commit(join(dc, "config.json"), config);
             console.log(`Wrote config.json for DC${dc}.`);
           } catch {
             console.error(`Failed to write config for DC${dc}.`);
           }
-          const appConfig = JSON.stringify(
-            toJSON(
-              await client.invoke({ _: "help.getAppConfig", hash: 0 }),
-            ),
-            null,
-            2,
-          );
+          const appConfigObject = await client.invoke({
+            _: "help.getAppConfig",
+            hash: 0,
+          });
+          if (Api.is("help.appConfig", appConfigObject)) {
+            appConfigObject.hash = 0;
+            if (Api.is("jsonObject", appConfigObject.config)) {
+              appConfigObject.config.value = appConfigObject.config.value
+                .filter((v) => v.key !== "ton_usd_rate");
+            }
+          }
+          const appConfig = JSON.stringify(toJSON(appConfigObject), null, 2);
           try {
             await commit(join(dc, "app-config.json"), appConfig);
             console.log(`Wrote app-config.json for DC${dc}.`);

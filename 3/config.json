@@ -1,0 +1,169 @@
+{
+  "_": "config",
+  "default_p2p_contacts": true,
+  "revoke_pm_inbox": true,
+  "date": 1782833256,
+  "expires": 1782837396,
+  "this_dc": 3,
+  "dc_options": [
+    {
+      "_": "dcOption",
+      "id": 1,
+      "ip_address": "149.154.175.52",
+      "port": 443
+    },
+    {
+      "_": "dcOption",
+      "static": true,
+      "id": 1,
+      "ip_address": "149.154.175.55",
+      "port": 443
+    },
+    {
+      "_": "dcOption",
+      "ipv6": true,
+      "id": 1,
+      "ip_address": "2001:0b28:f23d:f001:0000:0000:0000:000a",
+      "port": 443
+    },
+    {
+      "_": "dcOption",
+      "id": 2,
+      "ip_address": "149.154.167.41",
+      "port": 443
+    },
+    {
+      "_": "dcOption",
+      "static": true,
+      "id": 2,
+      "ip_address": "149.154.167.41",
+      "port": 443
+    },
+    {
+      "_": "dcOption",
+      "media_only": true,
+      "id": 2,
+      "ip_address": "149.154.167.151",
+      "port": 443
+    },
+    {
+      "_": "dcOption",
+      "ipv6": true,
+      "id": 2,
+      "ip_address": "2001:067c:04e8:f002:0000:0000:0000:000a",
+      "port": 443
+    },
+    {
+      "_": "dcOption",
+      "ipv6": true,
+      "media_only": true,
+      "id": 2,
+      "ip_address": "2001:067c:04e8:f002:0000:0000:0000:000b",
+      "port": 443
+    },
+    {
+      "_": "dcOption",
+      "id": 3,
+      "ip_address": "149.154.175.100",
+      "port": 443
+    },
+    {
+      "_": "dcOption",
+      "static": true,
+      "id": 3,
+      "ip_address": "149.154.175.100",
+      "port": 443
+    },
+    {
+      "_": "dcOption",
+      "ipv6": true,
+      "id": 3,
+      "ip_address": "2001:0b28:f23d:f003:0000:0000:0000:000a",
+      "port": 443
+    },
+    {
+      "_": "dcOption",
+      "id": 4,
+      "ip_address": "149.154.167.91",
+      "port": 443
+    },
+    {
+      "_": "dcOption",
+      "static": true,
+      "id": 4,
+      "ip_address": "149.154.167.91",
+      "port": 443
+    },
+    {
+      "_": "dcOption",
+      "ipv6": true,
+      "id": 4,
+      "ip_address": "2001:067c:04e8:f004:0000:0000:0000:000a",
+      "port": 443
+    },
+    {
+      "_": "dcOption",
+      "media_only": true,
+      "id": 4,
+      "ip_address": "149.154.166.111",
+      "port": 443
+    },
+    {
+      "_": "dcOption",
+      "ipv6": true,
+      "media_only": true,
+      "id": 4,
+      "ip_address": "2001:067c:04e8:f004:0000:0000:0000:000b",
+      "port": 443
+    },
+    {
+      "_": "dcOption",
+      "ipv6": true,
+      "id": 5,
+      "ip_address": "2001:0b28:f23f:f005:0000:0000:0000:000a",
+      "port": 443
+    },
+    {
+      "_": "dcOption",
+      "id": 5,
+      "ip_address": "91.108.56.104",
+      "port": 443
+    },
+    {
+      "_": "dcOption",
+      "static": true,
+      "id": 5,
+      "ip_address": "91.108.56.104",
+      "port": 443
+    }
+  ],
+  "dc_txt_domain_name": "apv3.stel.com",
+  "chat_size_max": 200,
+  "megagroup_size_max": 200000,
+  "forwarded_count_max": 100,
+  "online_update_period_ms": 210000,
+  "offline_blur_timeout_ms": 5000,
+  "offline_idle_timeout_ms": 30000,
+  "online_cloud_timeout_ms": 300000,
+  "notify_cloud_delay_ms": 30000,
+  "notify_default_delay_ms": 1500,
+  "push_chat_period_ms": 60000,
+  "push_chat_limit": 2,
+  "edit_time_limit": 172800,
+  "revoke_time_limit": 2147483647,
+  "revoke_pm_time_limit": 2147483647,
+  "rating_e_decay": 2419200,
+  "stickers_recent_limit": 200,
+  "channels_read_media_period": 604800,
+  "call_receive_timeout_ms": 20000,
+  "call_ring_timeout_ms": 90000,
+  "call_connect_timeout_ms": 30000,
+  "call_packet_timeout_ms": 10000,
+  "me_url_prefix": "https://t.me/",
+  "gif_search_username": "gif",
+  "venue_search_username": "foursquare",
+  "img_search_username": "bing",
+  "caption_length_max": 1024,
+  "message_length_max": 4096,
+  "webfile_dc_id": 4
+}

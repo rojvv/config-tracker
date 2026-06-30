@@ -1,0 +1,2406 @@
+{
+  "_": "help.appConfig",
+  "hash": -629751879,
+  "config": {
+    "_": "jsonObject",
+    "value": [
+      {
+        "_": "jsonObjectValue",
+        "key": "test",
+        "value": {
+          "_": "jsonNumber",
+          "value": 1
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "video_conversion",
+        "value": {
+          "_": "jsonObject",
+          "value": [
+            {
+              "_": "jsonObjectValue",
+              "key": "remux_fmp4",
+              "value": {
+                "_": "jsonBool"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "emojies_animated_zoom",
+        "value": {
+          "_": "jsonNumber",
+          "value": 0.625
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "emojies_send_dice",
+        "value": {
+          "_": "jsonArray",
+          "value": [
+            {
+              "_": "jsonString",
+              "value": "🎲"
+            },
+            {
+              "_": "jsonString",
+              "value": "🎯"
+            },
+            {
+              "_": "jsonString",
+              "value": "🏀"
+            },
+            {
+              "_": "jsonString",
+              "value": "⚽"
+            },
+            {
+              "_": "jsonString",
+              "value": "⚽️"
+            },
+            {
+              "_": "jsonString",
+              "value": "🎰"
+            },
+            {
+              "_": "jsonString",
+              "value": "🎳"
+            }
+          ]
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "emojies_send_dice_success",
+        "value": {
+          "_": "jsonObject",
+          "value": [
+            {
+              "_": "jsonObjectValue",
+              "key": "🎯",
+              "value": {
+                "_": "jsonObject",
+                "value": [
+                  {
+                    "_": "jsonObjectValue",
+                    "key": "value",
+                    "value": {
+                      "_": "jsonNumber",
+                      "value": 6
+                    }
+                  },
+                  {
+                    "_": "jsonObjectValue",
+                    "key": "frame_start",
+                    "value": {
+                      "_": "jsonNumber",
+                      "value": 62
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "_": "jsonObjectValue",
+              "key": "🏀",
+              "value": {
+                "_": "jsonObject",
+                "value": [
+                  {
+                    "_": "jsonObjectValue",
+                    "key": "value",
+                    "value": {
+                      "_": "jsonNumber",
+                      "value": 5
+                    }
+                  },
+                  {
+                    "_": "jsonObjectValue",
+                    "key": "frame_start",
+                    "value": {
+                      "_": "jsonNumber",
+                      "value": 110
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "_": "jsonObjectValue",
+              "key": "⚽",
+              "value": {
+                "_": "jsonObject",
+                "value": [
+                  {
+                    "_": "jsonObjectValue",
+                    "key": "value",
+                    "value": {
+                      "_": "jsonNumber",
+                      "value": 5
+                    }
+                  },
+                  {
+                    "_": "jsonObjectValue",
+                    "key": "frame_start",
+                    "value": {
+                      "_": "jsonNumber",
+                      "value": 110
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "_": "jsonObjectValue",
+              "key": "⚽️",
+              "value": {
+                "_": "jsonObject",
+                "value": [
+                  {
+                    "_": "jsonObjectValue",
+                    "key": "value",
+                    "value": {
+                      "_": "jsonNumber",
+                      "value": 5
+                    }
+                  },
+                  {
+                    "_": "jsonObjectValue",
+                    "key": "frame_start",
+                    "value": {
+                      "_": "jsonNumber",
+                      "value": 110
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "_": "jsonObjectValue",
+              "key": "🎰",
+              "value": {
+                "_": "jsonObject",
+                "value": [
+                  {
+                    "_": "jsonObjectValue",
+                    "key": "value",
+                    "value": {
+                      "_": "jsonNumber",
+                      "value": 64
+                    }
+                  },
+                  {
+                    "_": "jsonObjectValue",
+                    "key": "frame_start",
+                    "value": {
+                      "_": "jsonNumber",
+                      "value": 110
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "_": "jsonObjectValue",
+              "key": "🎳",
+              "value": {
+                "_": "jsonObject",
+                "value": [
+                  {
+                    "_": "jsonObjectValue",
+                    "key": "value",
+                    "value": {
+                      "_": "jsonNumber",
+                      "value": 6
+                    }
+                  },
+                  {
+                    "_": "jsonObjectValue",
+                    "key": "frame_start",
+                    "value": {
+                      "_": "jsonNumber",
+                      "value": 110
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "gif_search_branding",
+        "value": {
+          "_": "jsonString",
+          "value": "tenor"
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "gif_search_emojies",
+        "value": {
+          "_": "jsonArray",
+          "value": [
+            {
+              "_": "jsonString",
+              "value": "👍"
+            },
+            {
+              "_": "jsonString",
+              "value": "😘"
+            },
+            {
+              "_": "jsonString",
+              "value": "😍"
+            },
+            {
+              "_": "jsonString",
+              "value": "😡"
+            },
+            {
+              "_": "jsonString",
+              "value": "🥳"
+            },
+            {
+              "_": "jsonString",
+              "value": "😂"
+            },
+            {
+              "_": "jsonString",
+              "value": "😮"
+            },
+            {
+              "_": "jsonString",
+              "value": "🙄"
+            },
+            {
+              "_": "jsonString",
+              "value": "😎"
+            },
+            {
+              "_": "jsonString",
+              "value": "👎"
+            }
+          ]
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "stickers_emoji_suggest_only_api",
+        "value": {
+          "_": "jsonBool"
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "stickers_emoji_cache_time",
+        "value": {
+          "_": "jsonNumber",
+          "value": 86400
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "history_import_filters",
+        "value": {
+          "_": "jsonObject",
+          "value": [
+            {
+              "_": "jsonObjectValue",
+              "key": "zip",
+              "value": {
+                "_": "jsonObject",
+                "value": [
+                  {
+                    "_": "jsonObjectValue",
+                    "key": "main_file_patterns",
+                    "value": {
+                      "_": "jsonArray",
+                      "value": [
+                        {
+                          "_": "jsonString",
+                          "value": "_chat\\.txt"
+                        },
+                        {
+                          "_": "jsonString",
+                          "value": "KakaoTalkChats\\.txt"
+                        },
+                        {
+                          "_": "jsonString",
+                          "value": "Talk_.*?\\.txt"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "_": "jsonObjectValue",
+              "key": "txt",
+              "value": {
+                "_": "jsonObject",
+                "value": [
+                  {
+                    "_": "jsonObjectValue",
+                    "key": "patterns",
+                    "value": {
+                      "_": "jsonArray",
+                      "value": [
+                        {
+                          "_": "jsonString",
+                          "value": "^\\[LINE\\]"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "groupcall_video_participants_max",
+        "value": {
+          "_": "jsonNumber",
+          "value": 1000
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "youtube_pip",
+        "value": {
+          "_": "jsonString",
+          "value": "inapp"
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "qr_login_camera",
+        "value": {
+          "_": "jsonBool",
+          "value": true
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "qr_login_code",
+        "value": {
+          "_": "jsonString",
+          "value": "primary"
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "round_video_encoding",
+        "value": {
+          "_": "jsonObject",
+          "value": [
+            {
+              "_": "jsonObjectValue",
+              "key": "diameter",
+              "value": {
+                "_": "jsonNumber",
+                "value": 384
+              }
+            },
+            {
+              "_": "jsonObjectValue",
+              "key": "video_bitrate",
+              "value": {
+                "_": "jsonNumber",
+                "value": 1000
+              }
+            },
+            {
+              "_": "jsonObjectValue",
+              "key": "audio_bitrate",
+              "value": {
+                "_": "jsonNumber",
+                "value": 64
+              }
+            },
+            {
+              "_": "jsonObjectValue",
+              "key": "max_size",
+              "value": {
+                "_": "jsonNumber",
+                "value": 12582912
+              }
+            }
+          ]
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "chat_read_mark_expire_period",
+        "value": {
+          "_": "jsonNumber",
+          "value": 604800
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "chat_read_mark_size_threshold",
+        "value": {
+          "_": "jsonNumber",
+          "value": 100
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "ringtone_duration_max",
+        "value": {
+          "_": "jsonNumber",
+          "value": 5
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "ringtone_size_max",
+        "value": {
+          "_": "jsonNumber",
+          "value": 307200
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "ringtone_saved_count_max",
+        "value": {
+          "_": "jsonNumber",
+          "value": 100
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "premium_purchase_blocked",
+        "value": {
+          "_": "jsonBool",
+          "value": true
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "premium_playmarket_direct_currency_list",
+        "value": {
+          "_": "jsonArray",
+          "value": [
+            {
+              "_": "jsonString",
+              "value": "RUB"
+            },
+            {
+              "_": "jsonString",
+              "value": "BYN"
+            }
+          ]
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "forum_upgrade_participants_min",
+        "value": {
+          "_": "jsonNumber",
+          "value": 0
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "whitelisted_domains",
+        "value": {
+          "_": "jsonArray",
+          "value": [
+            {
+              "_": "jsonString",
+              "value": "telegram.dog"
+            },
+            {
+              "_": "jsonString",
+              "value": "telegram.me"
+            },
+            {
+              "_": "jsonString",
+              "value": "telegram.org"
+            },
+            {
+              "_": "jsonString",
+              "value": "t.me"
+            },
+            {
+              "_": "jsonString",
+              "value": "telesco.pe"
+            },
+            {
+              "_": "jsonString",
+              "value": "fragment.com"
+            },
+            {
+              "_": "jsonString",
+              "value": "translations.telegram.org"
+            }
+          ]
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "restriction_add_platforms",
+        "value": {
+          "_": "jsonArray",
+          "value": [
+            {
+              "_": "jsonString",
+              "value": "VIRT1"
+            }
+          ]
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "topics_pinned_limit",
+        "value": {
+          "_": "jsonNumber",
+          "value": 5
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "telegram_antispam_user_id",
+        "value": {
+          "_": "jsonString",
+          "value": "5434988373"
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "telegram_antispam_group_size_min",
+        "value": {
+          "_": "jsonNumber",
+          "value": 200
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "fragment_prefixes",
+        "value": {
+          "_": "jsonArray",
+          "value": [
+            {
+              "_": "jsonString",
+              "value": "888"
+            }
+          ]
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "hidden_members_group_size_min",
+        "value": {
+          "_": "jsonNumber",
+          "value": 100
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "ios_disable_parallel_channel_reset",
+        "value": {
+          "_": "jsonNumber",
+          "value": 1
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "getfile_experimental_params",
+        "value": {
+          "_": "jsonBool"
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "premium_gift_attach_menu_icon",
+        "value": {
+          "_": "jsonBool",
+          "value": true
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "premium_gift_text_field_icon",
+        "value": {
+          "_": "jsonBool"
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "chatlist_update_period",
+        "value": {
+          "_": "jsonNumber",
+          "value": 300
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "small_queue_max_active_operations_count",
+        "value": {
+          "_": "jsonNumber",
+          "value": 5
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "large_queue_max_active_operations_count",
+        "value": {
+          "_": "jsonNumber",
+          "value": 2
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "story_expire_period",
+        "value": {
+          "_": "jsonNumber",
+          "value": 86400
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "story_viewers_expire_period",
+        "value": {
+          "_": "jsonNumber",
+          "value": 86400
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "story_expiring_limit_default",
+        "value": {
+          "_": "jsonNumber",
+          "value": 1
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "story_expiring_limit_premium",
+        "value": {
+          "_": "jsonNumber",
+          "value": 100
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "story_caption_length_limit_premium",
+        "value": {
+          "_": "jsonNumber",
+          "value": 2048
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "story_caption_length_limit_default",
+        "value": {
+          "_": "jsonNumber",
+          "value": 200
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "stories_posting",
+        "value": {
+          "_": "jsonString",
+          "value": "disabled"
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "stories_stealth_past_period",
+        "value": {
+          "_": "jsonNumber",
+          "value": 300
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "stories_stealth_future_period",
+        "value": {
+          "_": "jsonNumber",
+          "value": 1500
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "stories_stealth_cooldown_period",
+        "value": {
+          "_": "jsonNumber",
+          "value": 10800
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "stories_sent_weekly_limit_default",
+        "value": {
+          "_": "jsonNumber",
+          "value": 3
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "stories_sent_weekly_limit_premium",
+        "value": {
+          "_": "jsonNumber",
+          "value": 700
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "stories_sent_monthly_limit_default",
+        "value": {
+          "_": "jsonNumber",
+          "value": 10
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "stories_sent_monthly_limit_premium",
+        "value": {
+          "_": "jsonNumber",
+          "value": 3000
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "stories_venue_search_username",
+        "value": {
+          "_": "jsonString",
+          "value": "foursquare"
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "stories_all_hidden",
+        "value": {
+          "_": "jsonBool"
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "stories_entities",
+        "value": {
+          "_": "jsonString",
+          "value": "premium"
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "stories_export_nopublic_link",
+        "value": {
+          "_": "jsonBool"
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "stories_changelog_user_id",
+        "value": {
+          "_": "jsonNumber",
+          "value": 777000
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "authorization_autoconfirm_period",
+        "value": {
+          "_": "jsonNumber",
+          "value": 604800
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "stories_suggested_reactions_limit_default",
+        "value": {
+          "_": "jsonNumber",
+          "value": 1
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "stories_suggested_reactions_limit_premium",
+        "value": {
+          "_": "jsonNumber",
+          "value": 5
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "giveaway_gifts_purchase_available",
+        "value": {
+          "_": "jsonBool",
+          "value": true
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "giveaway_add_peers_max",
+        "value": {
+          "_": "jsonNumber",
+          "value": 10
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "giveaway_countries_max",
+        "value": {
+          "_": "jsonNumber",
+          "value": 10
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "giveaway_boosts_per_premium",
+        "value": {
+          "_": "jsonNumber",
+          "value": 4
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "giveaway_period_max",
+        "value": {
+          "_": "jsonNumber",
+          "value": 2678400
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "boosts_channel_level_max",
+        "value": {
+          "_": "jsonNumber",
+          "value": 100
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "boosts_per_sent_gift",
+        "value": {
+          "_": "jsonNumber",
+          "value": 0
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "quote_length_max",
+        "value": {
+          "_": "jsonNumber",
+          "value": 1024
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "channel_color_level_min",
+        "value": {
+          "_": "jsonNumber",
+          "value": 5
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "transcribe_audio_trial_weekly_number",
+        "value": {
+          "_": "jsonNumber",
+          "value": 0
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "transcribe_audio_trial_duration_max",
+        "value": {
+          "_": "jsonNumber",
+          "value": 300
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "recommended_channels_limit_default",
+        "value": {
+          "_": "jsonNumber",
+          "value": 10
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "recommended_channels_limit_premium",
+        "value": {
+          "_": "jsonNumber",
+          "value": 100
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "channel_bg_icon_level_min",
+        "value": {
+          "_": "jsonNumber",
+          "value": 4
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "channel_profile_bg_icon_level_min",
+        "value": {
+          "_": "jsonNumber",
+          "value": 7
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "channel_emoji_status_level_min",
+        "value": {
+          "_": "jsonNumber",
+          "value": 8
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "channel_wallpaper_level_min",
+        "value": {
+          "_": "jsonNumber",
+          "value": 9
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "channel_custom_wallpaper_level_min",
+        "value": {
+          "_": "jsonNumber",
+          "value": 10
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "saved_dialogs_pinned_limit_default",
+        "value": {
+          "_": "jsonNumber",
+          "value": 5
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "saved_dialogs_pinned_limit_premium",
+        "value": {
+          "_": "jsonNumber",
+          "value": 100
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "pm_read_date_expire_period",
+        "value": {
+          "_": "jsonNumber",
+          "value": 604800
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "group_transcribe_level_min",
+        "value": {
+          "_": "jsonNumber",
+          "value": 6
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "group_emoji_stickers_level_min",
+        "value": {
+          "_": "jsonNumber",
+          "value": 4
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "group_profile_bg_icon_level_min",
+        "value": {
+          "_": "jsonNumber",
+          "value": 5
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "group_emoji_status_level_min",
+        "value": {
+          "_": "jsonNumber",
+          "value": 8
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "group_wallpaper_level_min",
+        "value": {
+          "_": "jsonNumber",
+          "value": 9
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "group_custom_wallpaper_level_min",
+        "value": {
+          "_": "jsonNumber",
+          "value": 10
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "quick_replies_limit",
+        "value": {
+          "_": "jsonNumber",
+          "value": 100
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "quick_reply_messages_limit",
+        "value": {
+          "_": "jsonNumber",
+          "value": 20
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "upload_premium_speedup_upload",
+        "value": {
+          "_": "jsonNumber",
+          "value": 10
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "upload_premium_speedup_download",
+        "value": {
+          "_": "jsonNumber",
+          "value": 10
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "upload_premium_speedup_notify_period",
+        "value": {
+          "_": "jsonNumber",
+          "value": 3600
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "intro_title_length_limit",
+        "value": {
+          "_": "jsonNumber",
+          "value": 32
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "intro_description_length_limit",
+        "value": {
+          "_": "jsonNumber",
+          "value": 70
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "business_chat_links_limit",
+        "value": {
+          "_": "jsonNumber",
+          "value": 100
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "channel_restrict_sponsored_level_min",
+        "value": {
+          "_": "jsonNumber",
+          "value": 50
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "channel_revenue_withdrawal_enabled",
+        "value": {
+          "_": "jsonBool",
+          "value": true
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "stars_purchase_blocked",
+        "value": {
+          "_": "jsonBool",
+          "value": true
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "stories_area_url_max",
+        "value": {
+          "_": "jsonNumber",
+          "value": 3
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "stars_revenue_withdrawal_min",
+        "value": {
+          "_": "jsonNumber",
+          "value": 1000
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "stars_paid_post_amount_max",
+        "value": {
+          "_": "jsonNumber",
+          "value": 25000
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "web_app_allowed_protocols",
+        "value": {
+          "_": "jsonArray",
+          "value": [
+            {
+              "_": "jsonString",
+              "value": "http"
+            },
+            {
+              "_": "jsonString",
+              "value": "https"
+            }
+          ]
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "bot_preview_medias_max",
+        "value": {
+          "_": "jsonNumber",
+          "value": 12
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "ton_proxy_address",
+        "value": {
+          "_": "jsonString",
+          "value": "magic.org"
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "weather_search_username",
+        "value": {
+          "_": "jsonString",
+          "value": "StoryWeatherBot"
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "story_weather_preload",
+        "value": {
+          "_": "jsonBool",
+          "value": true
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "stars_gifts_enabled",
+        "value": {
+          "_": "jsonBool",
+          "value": true
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "stars_subscription_amount_max",
+        "value": {
+          "_": "jsonNumber",
+          "value": 10000
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "stars_usd_sell_rate_x1000",
+        "value": {
+          "_": "jsonNumber",
+          "value": 1410
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "stars_usd_withdraw_rate_x1000",
+        "value": {
+          "_": "jsonNumber",
+          "value": 1300
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "stars_paid_reaction_amount_max",
+        "value": {
+          "_": "jsonNumber",
+          "value": 10000
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "stargifts_message_length_max",
+        "value": {
+          "_": "jsonNumber",
+          "value": 128
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "stargifts_blocked",
+        "value": {
+          "_": "jsonBool"
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "stargifts_convert_period_max",
+        "value": {
+          "_": "jsonNumber",
+          "value": 604800
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "ios_killswitch_enable_videochatui_v2",
+        "value": {
+          "_": "jsonNumber",
+          "value": 1
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "ios_killswitch_disable_native_pip",
+        "value": {
+          "_": "jsonNumber",
+          "value": 1
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "ios_enable_software_av1",
+        "value": {
+          "_": "jsonNumber",
+          "value": 1
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "starref_start_param_prefixes",
+        "value": {
+          "_": "jsonArray",
+          "value": [
+            {
+              "_": "jsonString",
+              "value": "_tgr_"
+            }
+          ]
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "starref_program_allowed",
+        "value": {
+          "_": "jsonBool",
+          "value": true
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "starref_connect_allowed",
+        "value": {
+          "_": "jsonBool",
+          "value": true
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "starref_min_commission_permille",
+        "value": {
+          "_": "jsonNumber",
+          "value": 1
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "starref_max_commission_permille",
+        "value": {
+          "_": "jsonNumber",
+          "value": 800
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "ton_blockchain_explorer_url",
+        "value": {
+          "_": "jsonString",
+          "value": "https://tonviewer.com/"
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "stars_paid_message_amount_max",
+        "value": {
+          "_": "jsonNumber",
+          "value": 35000
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "stars_paid_message_commission_permille",
+        "value": {
+          "_": "jsonNumber",
+          "value": 850
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "stargifts_pinned_to_top_limit",
+        "value": {
+          "_": "jsonNumber",
+          "value": 6
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "stars_paid_messages_available",
+        "value": {
+          "_": "jsonBool"
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "bot_verification_description_length_limit",
+        "value": {
+          "_": "jsonNumber",
+          "value": 70
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "conference_call_size_limit",
+        "value": {
+          "_": "jsonNumber",
+          "value": 200
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "stars_stargift_resale_amount_max",
+        "value": {
+          "_": "jsonNumber",
+          "value": 100000
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "stars_stargift_resale_amount_min",
+        "value": {
+          "_": "jsonNumber",
+          "value": 125
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "stars_stargift_resale_commission_permille",
+        "value": {
+          "_": "jsonNumber",
+          "value": 800
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "channel_autotranslation_level_min",
+        "value": {
+          "_": "jsonNumber",
+          "value": 3
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "poll_answers_max",
+        "value": {
+          "_": "jsonNumber",
+          "value": 12
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "stars_paid_messages_channel_amount_default",
+        "value": {
+          "_": "jsonNumber",
+          "value": 10
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "translations_manual_enabled",
+        "value": {
+          "_": "jsonString",
+          "value": "enabled"
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "translations_auto_enabled",
+        "value": {
+          "_": "jsonString",
+          "value": "disabled"
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "todo_items_max",
+        "value": {
+          "_": "jsonNumber",
+          "value": 30
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "todo_title_length_max",
+        "value": {
+          "_": "jsonNumber",
+          "value": 255
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "todo_item_length_max",
+        "value": {
+          "_": "jsonNumber",
+          "value": 200
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "stars_suggested_post_amount_min",
+        "value": {
+          "_": "jsonNumber",
+          "value": 5
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "stars_suggested_post_amount_max",
+        "value": {
+          "_": "jsonNumber",
+          "value": 100000
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "stars_suggested_post_commission_permille",
+        "value": {
+          "_": "jsonNumber",
+          "value": 850
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "ton_suggested_post_commission_permille",
+        "value": {
+          "_": "jsonNumber",
+          "value": 850
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "stars_suggested_post_age_min",
+        "value": {
+          "_": "jsonNumber",
+          "value": 86400
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "stars_suggested_post_future_max",
+        "value": {
+          "_": "jsonNumber",
+          "value": 2678400
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "stars_suggested_post_future_min",
+        "value": {
+          "_": "jsonNumber",
+          "value": 300
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "ton_suggested_post_amount_min",
+        "value": {
+          "_": "jsonNumber",
+          "value": 10000000
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "ton_suggested_post_amount_max",
+        "value": {
+          "_": "jsonNumber",
+          "value": 10000000000000
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "ton_usd_rate",
+        "value": {
+          "_": "jsonNumber",
+          "value": 1.5439897463150434
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "stars_revenue_withdrawal_max",
+        "value": {
+          "_": "jsonNumber",
+          "value": 25000000
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "ton_topup_url",
+        "value": {
+          "_": "jsonString",
+          "value": "https://fragment.com/ads/topup"
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "stars_rating_learnmore_url",
+        "value": {
+          "_": "jsonString",
+          "value": "https://telegram.org/faq#q-what-does-profile-rating-mean"
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "stargifts_collections_limit",
+        "value": {
+          "_": "jsonNumber",
+          "value": 10
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "stargifts_collection_gifts_limit",
+        "value": {
+          "_": "jsonNumber",
+          "value": 500
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "stories_albums_limit",
+        "value": {
+          "_": "jsonNumber",
+          "value": 100
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "stories_album_stories_limit",
+        "value": {
+          "_": "jsonNumber",
+          "value": 1000
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "ton_stargift_resale_amount_max",
+        "value": {
+          "_": "jsonNumber",
+          "value": 100000000000000
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "ton_stargift_resale_amount_min",
+        "value": {
+          "_": "jsonNumber",
+          "value": 7000000000
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "ton_stargift_resale_commission_permille",
+        "value": {
+          "_": "jsonNumber",
+          "value": 900
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "whitelisted_bots",
+        "value": {
+          "_": "jsonArray",
+          "value": [
+            {
+              "_": "jsonNumber",
+              "value": 429000
+            },
+            {
+              "_": "jsonNumber",
+              "value": 93372553
+            },
+            {
+              "_": "jsonNumber",
+              "value": 417160374
+            },
+            {
+              "_": "jsonNumber",
+              "value": 2847000
+            },
+            {
+              "_": "jsonNumber",
+              "value": 8591891104
+            }
+          ]
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "stars_groupcall_message_amount_max",
+        "value": {
+          "_": "jsonNumber",
+          "value": 35000
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "stars_groupcall_message_limits",
+        "value": {
+          "_": "jsonArray",
+          "value": [
+            {
+              "_": "jsonObject",
+              "value": [
+                {
+                  "_": "jsonObjectValue",
+                  "key": "stars",
+                  "value": {
+                    "_": "jsonNumber",
+                    "value": 10000
+                  }
+                },
+                {
+                  "_": "jsonObjectValue",
+                  "key": "pin_period",
+                  "value": {
+                    "_": "jsonNumber",
+                    "value": 3600
+                  }
+                },
+                {
+                  "_": "jsonObjectValue",
+                  "key": "text_length_max",
+                  "value": {
+                    "_": "jsonNumber",
+                    "value": 400
+                  }
+                },
+                {
+                  "_": "jsonObjectValue",
+                  "key": "emoji_max",
+                  "value": {
+                    "_": "jsonNumber",
+                    "value": 20
+                  }
+                },
+                {
+                  "_": "jsonObjectValue",
+                  "key": "color1",
+                  "value": {
+                    "_": "jsonString",
+                    "value": "5B6676"
+                  }
+                },
+                {
+                  "_": "jsonObjectValue",
+                  "key": "color2",
+                  "value": {
+                    "_": "jsonString",
+                    "value": "7B899D"
+                  }
+                },
+                {
+                  "_": "jsonObjectValue",
+                  "key": "color_bg",
+                  "value": {
+                    "_": "jsonString",
+                    "value": "252C36"
+                  }
+                }
+              ]
+            },
+            {
+              "_": "jsonObject",
+              "value": [
+                {
+                  "_": "jsonObjectValue",
+                  "key": "stars",
+                  "value": {
+                    "_": "jsonNumber",
+                    "value": 2000
+                  }
+                },
+                {
+                  "_": "jsonObjectValue",
+                  "key": "pin_period",
+                  "value": {
+                    "_": "jsonNumber",
+                    "value": 1800
+                  }
+                },
+                {
+                  "_": "jsonObjectValue",
+                  "key": "text_length_max",
+                  "value": {
+                    "_": "jsonNumber",
+                    "value": 280
+                  }
+                },
+                {
+                  "_": "jsonObjectValue",
+                  "key": "emoji_max",
+                  "value": {
+                    "_": "jsonNumber",
+                    "value": 10
+                  }
+                },
+                {
+                  "_": "jsonObjectValue",
+                  "key": "color1",
+                  "value": {
+                    "_": "jsonString",
+                    "value": "E14741"
+                  }
+                },
+                {
+                  "_": "jsonObjectValue",
+                  "key": "color2",
+                  "value": {
+                    "_": "jsonString",
+                    "value": "E96139"
+                  }
+                },
+                {
+                  "_": "jsonObjectValue",
+                  "key": "color_bg",
+                  "value": {
+                    "_": "jsonString",
+                    "value": "8B0503"
+                  }
+                }
+              ]
+            },
+            {
+              "_": "jsonObject",
+              "value": [
+                {
+                  "_": "jsonObjectValue",
+                  "key": "stars",
+                  "value": {
+                    "_": "jsonNumber",
+                    "value": 500
+                  }
+                },
+                {
+                  "_": "jsonObjectValue",
+                  "key": "pin_period",
+                  "value": {
+                    "_": "jsonNumber",
+                    "value": 900
+                  }
+                },
+                {
+                  "_": "jsonObjectValue",
+                  "key": "text_length_max",
+                  "value": {
+                    "_": "jsonNumber",
+                    "value": 200
+                  }
+                },
+                {
+                  "_": "jsonObjectValue",
+                  "key": "emoji_max",
+                  "value": {
+                    "_": "jsonNumber",
+                    "value": 7
+                  }
+                },
+                {
+                  "_": "jsonObjectValue",
+                  "key": "color1",
+                  "value": {
+                    "_": "jsonString",
+                    "value": "ED771E"
+                  }
+                },
+                {
+                  "_": "jsonObjectValue",
+                  "key": "color2",
+                  "value": {
+                    "_": "jsonString",
+                    "value": "ED771E"
+                  }
+                },
+                {
+                  "_": "jsonObjectValue",
+                  "key": "color_bg",
+                  "value": {
+                    "_": "jsonString",
+                    "value": "9B3100"
+                  }
+                }
+              ]
+            },
+            {
+              "_": "jsonObject",
+              "value": [
+                {
+                  "_": "jsonObjectValue",
+                  "key": "stars",
+                  "value": {
+                    "_": "jsonNumber",
+                    "value": 250
+                  }
+                },
+                {
+                  "_": "jsonObjectValue",
+                  "key": "pin_period",
+                  "value": {
+                    "_": "jsonNumber",
+                    "value": 600
+                  }
+                },
+                {
+                  "_": "jsonObjectValue",
+                  "key": "text_length_max",
+                  "value": {
+                    "_": "jsonNumber",
+                    "value": 150
+                  }
+                },
+                {
+                  "_": "jsonObjectValue",
+                  "key": "emoji_max",
+                  "value": {
+                    "_": "jsonNumber",
+                    "value": 4
+                  }
+                },
+                {
+                  "_": "jsonObjectValue",
+                  "key": "color1",
+                  "value": {
+                    "_": "jsonString",
+                    "value": "E29A09"
+                  }
+                },
+                {
+                  "_": "jsonObjectValue",
+                  "key": "color2",
+                  "value": {
+                    "_": "jsonString",
+                    "value": "E29A09"
+                  }
+                },
+                {
+                  "_": "jsonObjectValue",
+                  "key": "color_bg",
+                  "value": {
+                    "_": "jsonString",
+                    "value": "9A3E00"
+                  }
+                }
+              ]
+            },
+            {
+              "_": "jsonObject",
+              "value": [
+                {
+                  "_": "jsonObjectValue",
+                  "key": "stars",
+                  "value": {
+                    "_": "jsonNumber",
+                    "value": 100
+                  }
+                },
+                {
+                  "_": "jsonObjectValue",
+                  "key": "pin_period",
+                  "value": {
+                    "_": "jsonNumber",
+                    "value": 300
+                  }
+                },
+                {
+                  "_": "jsonObjectValue",
+                  "key": "text_length_max",
+                  "value": {
+                    "_": "jsonNumber",
+                    "value": 110
+                  }
+                },
+                {
+                  "_": "jsonObjectValue",
+                  "key": "emoji_max",
+                  "value": {
+                    "_": "jsonNumber",
+                    "value": 3
+                  }
+                },
+                {
+                  "_": "jsonObjectValue",
+                  "key": "color1",
+                  "value": {
+                    "_": "jsonString",
+                    "value": "40A920"
+                  }
+                },
+                {
+                  "_": "jsonObjectValue",
+                  "key": "color2",
+                  "value": {
+                    "_": "jsonString",
+                    "value": "40A920"
+                  }
+                },
+                {
+                  "_": "jsonObjectValue",
+                  "key": "color_bg",
+                  "value": {
+                    "_": "jsonString",
+                    "value": "176200"
+                  }
+                }
+              ]
+            },
+            {
+              "_": "jsonObject",
+              "value": [
+                {
+                  "_": "jsonObjectValue",
+                  "key": "stars",
+                  "value": {
+                    "_": "jsonNumber",
+                    "value": 50
+                  }
+                },
+                {
+                  "_": "jsonObjectValue",
+                  "key": "pin_period",
+                  "value": {
+                    "_": "jsonNumber",
+                    "value": 120
+                  }
+                },
+                {
+                  "_": "jsonObjectValue",
+                  "key": "text_length_max",
+                  "value": {
+                    "_": "jsonNumber",
+                    "value": 80
+                  }
+                },
+                {
+                  "_": "jsonObjectValue",
+                  "key": "emoji_max",
+                  "value": {
+                    "_": "jsonNumber",
+                    "value": 2
+                  }
+                },
+                {
+                  "_": "jsonObjectValue",
+                  "key": "color1",
+                  "value": {
+                    "_": "jsonString",
+                    "value": "46A3EB"
+                  }
+                },
+                {
+                  "_": "jsonObjectValue",
+                  "key": "color2",
+                  "value": {
+                    "_": "jsonString",
+                    "value": "46A3EB"
+                  }
+                },
+                {
+                  "_": "jsonObjectValue",
+                  "key": "color_bg",
+                  "value": {
+                    "_": "jsonString",
+                    "value": "00508E"
+                  }
+                }
+              ]
+            },
+            {
+              "_": "jsonObject",
+              "value": [
+                {
+                  "_": "jsonObjectValue",
+                  "key": "stars",
+                  "value": {
+                    "_": "jsonNumber",
+                    "value": 10
+                  }
+                },
+                {
+                  "_": "jsonObjectValue",
+                  "key": "pin_period",
+                  "value": {
+                    "_": "jsonNumber",
+                    "value": 60
+                  }
+                },
+                {
+                  "_": "jsonObjectValue",
+                  "key": "text_length_max",
+                  "value": {
+                    "_": "jsonNumber",
+                    "value": 60
+                  }
+                },
+                {
+                  "_": "jsonObjectValue",
+                  "key": "emoji_max",
+                  "value": {
+                    "_": "jsonNumber",
+                    "value": 1
+                  }
+                },
+                {
+                  "_": "jsonObjectValue",
+                  "key": "color1",
+                  "value": {
+                    "_": "jsonString",
+                    "value": "955CDB"
+                  }
+                },
+                {
+                  "_": "jsonObjectValue",
+                  "key": "color2",
+                  "value": {
+                    "_": "jsonString",
+                    "value": "955CDB"
+                  }
+                },
+                {
+                  "_": "jsonObjectValue",
+                  "key": "color_bg",
+                  "value": {
+                    "_": "jsonString",
+                    "value": "49079B"
+                  }
+                }
+              ]
+            },
+            {
+              "_": "jsonObject",
+              "value": [
+                {
+                  "_": "jsonObjectValue",
+                  "key": "stars",
+                  "value": {
+                    "_": "jsonNumber",
+                    "value": 0
+                  }
+                },
+                {
+                  "_": "jsonObjectValue",
+                  "key": "pin_period",
+                  "value": {
+                    "_": "jsonNumber",
+                    "value": 0
+                  }
+                },
+                {
+                  "_": "jsonObjectValue",
+                  "key": "text_length_max",
+                  "value": {
+                    "_": "jsonNumber",
+                    "value": 30
+                  }
+                },
+                {
+                  "_": "jsonObjectValue",
+                  "key": "emoji_max",
+                  "value": {
+                    "_": "jsonNumber",
+                    "value": 0
+                  }
+                },
+                {
+                  "_": "jsonObjectValue",
+                  "key": "color1",
+                  "value": {
+                    "_": "jsonString",
+                    "value": "955CDB"
+                  }
+                },
+                {
+                  "_": "jsonObjectValue",
+                  "key": "color2",
+                  "value": {
+                    "_": "jsonString",
+                    "value": "955CDB"
+                  }
+                },
+                {
+                  "_": "jsonObjectValue",
+                  "key": "color_bg",
+                  "value": {
+                    "_": "jsonString",
+                    "value": "49079B"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "passkeys_account_passkeys_max",
+        "value": {
+          "_": "jsonNumber",
+          "value": 5
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "ios_display_passkeys",
+        "value": {
+          "_": "jsonBool",
+          "value": true
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "settings_display_passkeys",
+        "value": {
+          "_": "jsonBool",
+          "value": true
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "stargifts_craft_attribute_permilles",
+        "value": {
+          "_": "jsonArray",
+          "value": [
+            {
+              "_": "jsonArray",
+              "value": [
+                {
+                  "_": "jsonNumber",
+                  "value": 100
+                }
+              ]
+            },
+            {
+              "_": "jsonArray",
+              "value": [
+                {
+                  "_": "jsonNumber",
+                  "value": 80
+                },
+                {
+                  "_": "jsonNumber",
+                  "value": 400
+                }
+              ]
+            },
+            {
+              "_": "jsonArray",
+              "value": [
+                {
+                  "_": "jsonNumber",
+                  "value": 70
+                },
+                {
+                  "_": "jsonNumber",
+                  "value": 350
+                },
+                {
+                  "_": "jsonNumber",
+                  "value": 700
+                }
+              ]
+            },
+            {
+              "_": "jsonArray",
+              "value": [
+                {
+                  "_": "jsonNumber",
+                  "value": 60
+                },
+                {
+                  "_": "jsonNumber",
+                  "value": 300
+                },
+                {
+                  "_": "jsonNumber",
+                  "value": 600
+                },
+                {
+                  "_": "jsonNumber",
+                  "value": 1000
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "no_forwards_request_expire_period",
+        "value": {
+          "_": "jsonNumber",
+          "value": 86400
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "poll_close_period_max",
+        "value": {
+          "_": "jsonNumber",
+          "value": 2628000
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "poll_answer_delete_period",
+        "value": {
+          "_": "jsonNumber",
+          "value": 300
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "aicompose_tone_examples_num",
+        "value": {
+          "_": "jsonNumber",
+          "value": 3
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "aicompose_tone_title_length_max",
+        "value": {
+          "_": "jsonNumber",
+          "value": 12
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "aicompose_tone_prompt_length_max",
+        "value": {
+          "_": "jsonNumber",
+          "value": 1024
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "aicompose_tone_saved_limit_default",
+        "value": {
+          "_": "jsonNumber",
+          "value": 5
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "aicompose_tone_saved_limit_premium",
+        "value": {
+          "_": "jsonNumber",
+          "value": 20
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "poll_countries_max",
+        "value": {
+          "_": "jsonNumber",
+          "value": 12
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "message_length_limit_default",
+        "value": {
+          "_": "jsonNumber",
+          "value": 4096
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "message_length_limit_premium",
+        "value": {
+          "_": "jsonNumber",
+          "value": 8192
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "rich_message_length_limit",
+        "value": {
+          "_": "jsonNumber",
+          "value": 32768
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "rich_message_max_blocks",
+        "value": {
+          "_": "jsonNumber",
+          "value": 500
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "rich_message_max_depth",
+        "value": {
+          "_": "jsonNumber",
+          "value": 16
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "rich_message_max_media",
+        "value": {
+          "_": "jsonNumber",
+          "value": 50
+        }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "rich_message_max_table_cols",
+        "value": {
+          "_": "jsonNumber",
+          "value": 20
+        }
+      }
+    ]
+  }
+}

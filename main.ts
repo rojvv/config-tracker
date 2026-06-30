@@ -19,9 +19,10 @@ Deno.cron("fetch configurations", "*/10 * * * *", async () => {
             hash: 0,
           });
           configObject.date = 0;
+          configObject.expires = 0;
           const config = JSON.stringify(toJSON(configObject), null, 2);
           try {
-            await commit(join(dc, "config.json"), config);
+            await commit(join(dc, "config.json"), `${config}\n`);
             console.log(`Wrote config.json for DC${dc}.`);
           } catch {
             console.error(`Failed to write config for DC${dc}.`);
@@ -39,7 +40,7 @@ Deno.cron("fetch configurations", "*/10 * * * *", async () => {
           }
           const appConfig = JSON.stringify(toJSON(appConfigObject), null, 2);
           try {
-            await commit(join(dc, "app-config.json"), appConfig);
+            await commit(join(dc, "app-config.json"), `${appConfig}\n`);
             console.log(`Wrote app-config.json for DC${dc}.`);
           } catch {
             console.error(`Failed to write config for DC${dc}.`);

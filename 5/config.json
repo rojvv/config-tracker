@@ -2,21 +2,21 @@
   "_": "config",
   "default_p2p_contacts": true,
   "revoke_pm_inbox": true,
-  "date": 1782834625,
-  "expires": 1782838456,
+  "date": 1782835227,
+  "expires": 1782838732,
   "this_dc": 5,
   "dc_options": [
     {
       "_": "dcOption",
       "id": 1,
-      "ip_address": "149.154.175.60",
+      "ip_address": "149.154.175.55",
       "port": 443
     },
     {
       "_": "dcOption",
       "static": true,
       "id": 1,
-      "ip_address": "149.154.175.54",
+      "ip_address": "149.154.175.55",
       "port": 443
     },
     {
@@ -29,7 +29,7 @@
     {
       "_": "dcOption",
       "id": 2,
-      "ip_address": "149.154.167.51",
+      "ip_address": "149.154.167.41",
       "port": 443
     },
     {
@@ -43,7 +43,7 @@
       "_": "dcOption",
       "media_only": true,
       "id": 2,
-      "ip_address": "149.154.167.223",
+      "ip_address": "149.154.167.222",
       "port": 443
     },
     {
@@ -84,14 +84,14 @@
     {
       "_": "dcOption",
       "id": 4,
-      "ip_address": "149.154.167.91",
+      "ip_address": "149.154.167.92",
       "port": 443
     },
     {
       "_": "dcOption",
       "static": true,
       "id": 4,
-      "ip_address": "149.154.167.91",
+      "ip_address": "149.154.167.92",
       "port": 443
     },
     {
@@ -105,7 +105,7 @@
       "_": "dcOption",
       "media_only": true,
       "id": 4,
-      "ip_address": "149.154.165.136",
+      "ip_address": "149.154.167.43",
       "port": 443
     },
     {
@@ -126,14 +126,14 @@
     {
       "_": "dcOption",
       "id": 5,
-      "ip_address": "91.108.56.145",
+      "ip_address": "91.108.56.193",
       "port": 443
     },
     {
       "_": "dcOption",
       "static": true,
       "id": 5,
-      "ip_address": "91.108.56.145",
+      "ip_address": "91.108.56.193",
       "port": 443
     }
   ],

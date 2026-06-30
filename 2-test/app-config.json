@@ -1,6 +1,6 @@
 {
   "_": "help.appConfig",
-  "hash": 1306171628,
+  "hash": 688381781,
   "config": {
     "_": "jsonObject",
     "value": [
@@ -1451,7 +1451,7 @@
         "key": "ton_usd_rate",
         "value": {
           "_": "jsonNumber",
-          "value": 1.5389549984504793
+          "value": 1.5446740469923512
         }
       },
       {

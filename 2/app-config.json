@@ -2392,6 +2392,14 @@
           "_": "jsonNumber",
           "value": 20
         }
+      },
+      {
+        "_": "jsonObjectValue",
+        "key": "rich_message_posting",
+        "value": {
+          "_": "jsonString",
+          "value": "disabled"
+        }
       }
     ]
   }

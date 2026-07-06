@@ -28,17 +28,8 @@ Deno.cron("fetch configurations", "*/10 * * * *", async () => {
           } catch {
             console.error(`Failed to write config for DC${dc}.`);
           }
-          const appConfigObject = await client.invoke({
-            _: "help.getAppConfig",
-            hash: 0,
-          });
-          if (Api.is("help.appConfig", appConfigObject)) {
-            appConfigObject.hash = 0;
-            if (Api.is("jsonObject", appConfigObject.config)) {
-              appConfigObject.config.value = appConfigObject.config.value
-                .filter((v) => v.key !== "ton_usd_rate");
-            }
-          }
+          const appConfigObject = await client.getApplicationConfiguration();
+          appConfigObject.ton_usd_rate = undefined;
           const appConfig = JSON.stringify(toJSON(appConfigObject), null, 2);
           try {
             await commit(join(dc, "app-config.json"), `${appConfig}\n`);

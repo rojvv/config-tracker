@@ -29,7 +29,7 @@
   "call_ring_timeout_ms": 90000,
   "call_connect_timeout_ms": 30000,
   "call_packet_timeout_ms": 10000,
-  "me_url_prefix": "https://telegram.me/",
+  "me_url_prefix": "https://t.me/",
   "gif_search_username": "contextbot",
   "venue_search_username": "foursquarebot",
   "img_search_username": "imagebot",

@@ -196,7 +196,7 @@
   "starref_connect_allowed": true,
   "starref_min_commission_permille": 1,
   "starref_max_commission_permille": 800,
-  "ton_blockchain_explorer_url": "https://tonviewer.com/",
+  "ton_blockchain_explorer_url": "https://tonscan.org/",
   "stars_paid_message_amount_max": 35000,
   "stars_paid_message_commission_permille": 850,
   "stargifts_pinned_to_top_limit": 6,

@@ -321,6 +321,7 @@
       1000
     ]
   ],
+  "stargifts_craft_minted_first_source": true,
   "no_forwards_request_expire_period": 300,
   "poll_close_period_max": 2628000,
   "poll_answer_delete_period": 300,

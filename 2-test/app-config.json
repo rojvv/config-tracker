@@ -214,7 +214,7 @@
   "stories_albums_limit": 20,
   "stories_album_stories_limit": 200,
   "ton_stargift_resale_amount_max": 100000000000000,
-  "ton_stargift_resale_amount_min": 50000000000,
+  "ton_stargift_resale_amount_min": 1000000000,
   "ton_stargift_resale_commission_permille": 900,
   "whitelisted_bots": [
     429000,

@@ -223,7 +223,6 @@
   "ton_suggested_post_amount_min": 10000000,
   "ton_suggested_post_amount_max": 10000000000000,
   "stars_revenue_withdrawal_max": 25000000,
-  "ton_topup_url": "https://fragment.com/ads/topup",
   "stars_rating_learnmore_url": "https://telegram.org/faq#q-what-does-profile-rating-mean",
   "stargifts_collections_limit": 10,
   "stargifts_collection_gifts_limit": 500,
